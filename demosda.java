@@ -1,4 +1,4 @@
-package 实训作业;
+package 实训作业;44444
 
 import java.util.Scanner;
 
